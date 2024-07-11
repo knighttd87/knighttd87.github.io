@@ -13,4 +13,12 @@ This lesson is intended for a high school stats class
 - Domain Separation
 * Abstraction
 + Process Isolation
+## GenCyber Cybersecurity Concepts
+- Defense in Depth
+- Availability
+- Integrity
+## Resources that are needed
+The students will need a computer
+## Accommodations Needed:
+Closed captioning will be on for the instruction video
 
