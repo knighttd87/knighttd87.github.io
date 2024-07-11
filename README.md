@@ -10,4 +10,7 @@ This lesson is designed to take
 This lesson is intended for a high school stats class
 ## Applicable First Principles &/or Concepts:
 ## GenCyber First Principles
-Domain Separation      Abstraction
+-Domain Separation
+-Abstraction
+-Process Isolation
+
